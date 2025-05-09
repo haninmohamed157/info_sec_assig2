@@ -110,4 +110,4 @@ echo "• If 5xx errors appear frequently, review server performance or backend 
 echo "• Consider implementing rate-limiting or CAPTCHA for suspicious IPs." >> "$OUTPUT"
 echo "• Review system logs during high-failure periods to find root causes." >> "$OUTPUT"
 
-echo "✅ Analysis saved to $OUTPUT"
+echo " Analysis saved to $OUTPUT"
